@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Keith",
+    "age": 21,
+    "position": "Optometrist",
+    "isProgrammer": false,
+    "fifaRating": 9.9,
+    "hobbies": ["games", "soccer", "music"],
+    "netWorth": 120000,
+    "phone": {
+      "brand": "iPhone",
+      "model": "11 Pro",
+      "number": 12345984
+    },
+    "country": {
+      "name": "South Africa",
+      "province": "Gauteng",
+      "state": "Sandton"
+    },
+    "cars": {
+      "mercedes": {
+        "model": ["A45", "G63", "C63"]
+      },
+      "lamborghini": {
+        "model": ["SVJ", "Gallardo", "Urus"]
+      }
+    },
+    "shoes": {
+      "nike": {
+        "pairs": 21,
+        "colors": ["green", "white", "black", "mustard"]
+      },
+      "vans": {
+        "pairs": 12,
+        "colors": ["orange", "blue", "black"]
+      }
+    }
+  },
+
+  {
+    "name": "Jigga",
+    "age": 23,
+    "position": "Trader",
+    "isProgrammer": false,
+    "fifaRating": 5,
+    "hobbies": ["movies", "soccer", "music"],
+    "netWorth": 160000,
+    "phone": {
+      "brand": "Samsung",
+      "model": "Z Flip",
+      "number": 57745984
+    },
+    "country": {
+      "name": "South Africa",
+      "province": "Western Cape",
+      "state": "Camps Bay"
+    },
+    "cars": {
+      "mercedes": {
+        "model": ["A45s", "V Class", "C63s", "E-Class"]
+      },
+      "lamborghini": {
+        "model": ["Veneno", "Urus"]
+      }
+    },
+    "shoes": {
+      "nike": {
+        "pairs": 10,
+        "colors": ["grey", "white", "black", "brown"]
+      },
+      "bass": {
+        "pairs": 13,
+        "colors": ["black", "grey", "brown", "powder blue"]
+      },
+      "vans": null
+    }
+  }
+]
